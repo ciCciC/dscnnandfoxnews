@@ -1,6 +1,6 @@
 # Analyzing the topics that are prominent in the distribution of tweets from CNN and FOXNEWS by utilizing NLP and LDA mallet model (Latent Dirichlet Allocation)
 
-### Operationalization: 2021/2022
+### Operationalization: 2021
 
 Below you will find the list of the imported libraries for being able to use certain functions for desired usage.
 
